@@ -5,6 +5,7 @@
 </div>
 
 <br />
+  ---
 ### Last Videos
 <!-- YOUTUBE:START -->
 - [fit to path2](https://www.youtube.com/watch?v=iffCCtP1Gfc)
@@ -13,3 +14,4 @@
 - [Rename Shape CorelDraw Addons Context Menu Command](https://www.youtube.com/watch?v=zu5SDlvKkio)
 - [Hide Show Dockers CorelDraw Addon](https://www.youtube.com/watch?v=-VAzH4aQPew)
 <!-- YOUTUBE:END -->
+  ---
